@@ -40,6 +40,7 @@
 
 <br><br>
 
+<!-- Snake hidden for now. Delete this comment wrapper to show it again.
 ### `$ git log --graph`
 
 <picture>
@@ -51,6 +52,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <br><br>
+-->
 
 ### `$ ./contribution-city`
 
