@@ -24,6 +24,7 @@
 
 <br><br>
 
+<!-- Projects hidden for now. Delete this comment wrapper to show it again.
 ### `$ ls ~/projects`
 
 <table>
@@ -39,6 +40,7 @@
 <a href="https://github.com/MuhammadUsama-Ashraf?tab=repositories"><b>→ See all 74 repositories</b></a>
 
 <br><br>
+-->
 
 <!-- Snake hidden for now. Delete this comment wrapper to show it again.
 ### `$ git log --graph`
