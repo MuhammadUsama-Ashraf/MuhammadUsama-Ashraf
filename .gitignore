@@ -1,0 +1,7 @@
+# local only
+preview.html
+local-metrics-preview.svg
+ascii-version/
+space-version/
+.claude/
+__pycache__/
