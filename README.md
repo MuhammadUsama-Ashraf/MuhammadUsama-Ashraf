@@ -54,6 +54,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <br><br>
 -->
 
+<!-- 3D city hidden for now. Delete this comment wrapper to show it again.
 ### `$ ./contribution-city`
 
 *Every commit adds a building. Rebuilt automatically every day.*
@@ -61,6 +62,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%">
 
 <br><br>
+-->
 
 <!-- Metrics hidden for now. Delete this comment wrapper to show it again.
 ### `$ metrics --all`
@@ -72,9 +74,11 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <img src="./connect.svg?v=2" alt="Let's connect" width="100%">
 
+<!-- GitHub badge hidden for now. Delete this comment wrapper to show it again.
 <br><br>
 
 <a href="https://github.com/MuhammadUsama-Ashraf"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"></a>
+-->
 <!-- Add your links, then delete this comment wrapper:
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"></a>
 <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-4aa3ff?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"></a>
@@ -82,6 +86,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <a href="https://www.threads.net/@YOUR-ID"><img src="https://img.shields.io/badge/Threads-2fd48a?style=for-the-badge&logo=threads&logoColor=0b0d13" alt="Threads"></a>
 -->
 
+<!-- Visitor counter and sign-off hidden for now. Delete this comment wrapper to show it again.
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadUsama-Ashraf&color=ff7a1a&style=for-the-badge&label=VISITORS" alt="Profile views">
@@ -89,5 +94,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <br><br>
 
 **keep coding, keep growing.**
+-->
 
 </div>
